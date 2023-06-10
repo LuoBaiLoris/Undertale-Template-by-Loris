@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/1c62bc0b-99ee-47d3-ae58-050d2f913b71/edit",
+  "option_operagx_game_name": "Undertale Template by Loris",
+  "option_operagx_guid": "1c62bc0b-99ee-47d3-ae58-050d2f913b71",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "24d62376-a348-4c78-8d41-aa9dfbb65ea4",
+  "option_operagx_team_name": "(24d62376-a348-4c78-8d41-aa9dfbb65ea4) studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "1.0.0.0",
+}
